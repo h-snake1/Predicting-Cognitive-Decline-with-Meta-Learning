@@ -12,7 +12,6 @@ Empowering early dementia detection through personalized AI analysis of MRI scan
 
 * Boosting had an accuracy of 86.76%, f1-score of 83.64% and recall of 85.19%
 
-* Model was deployed on a web application built using **Django** available at [Dementia Predictor](https://dementia-predictor.onrender.com/)
 ___
 ## Model Performamce
 Accuracy, F1-Score and Recall were the metrics used to evaluate the performance of the model
@@ -29,7 +28,7 @@ Confusion Matrix
 | 0 | TN | FP |
 | 1 | FN | TP |
 ___
-![Web application of the model](plots/cf.png)
+
 ___
 ## Features
 
